@@ -7,7 +7,7 @@ const jwt = require('jsonwebtoken');
 
 const app = express();
 const PORT = 3000;
-const MONGO_URI = "mongodb+srv://akshays:8660737989@cluster0.x50pm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const MONGO_URI = "rm -r node_modules";
 const DATABASE_NAME = "media_database";
 const JWT_SECRET = "your_jwt_secret"; // Replace with a secure secret key
 
